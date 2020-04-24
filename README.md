@@ -23,3 +23,5 @@ The website is distributed via Cloudfront. CloudFront has been configured to ret
 <h3>CloudFront Distribution:</h3>
 
 <a href = "https://qasim-hassan.s3.amazonaws.com/index.html" target = "_blank">Qasim's Travelog</a>
+
+<img src = "./Website Overview.jpeg">
