@@ -1,4 +1,4 @@
-<h1>Deploy Static Website on AWS<h1>
+<h1>Deploy Static Website on AWS</h1>
 
 Screenshots showing steps for Deploying Static Website on AWS.
 
@@ -18,8 +18,8 @@ The website is distributed via Cloudfront. CloudFront has been configured to ret
 
 <h3>Site Url:</h3>
 
-<a href = "http://d21syuvd0qqu8d.cloudfront.net/"></a>
+<a href = "http://d21syuvd0qqu8d.cloudfront.net/">Qasim's Travelog</a>
 
 <h3>CloudFront Distribution:</h3>
 
-<a href = "https://qasim-hassan.s3.amazonaws.com/index.html"></a>
+<a href = "https://qasim-hassan.s3.amazonaws.com/index.html">Qasim's Travelog</a>
